@@ -8,6 +8,9 @@ The goal of this project is to demonstrate data analysis, data modeling, and das
 
 ---
 
+## 🔴 Live Dashboard
+👉 https://app.powerbi.com/links/AnFG_v040M?ctid=ab59c544-01f6-4830-b5c3-99fbca2f1566&pbi_source=linkShare&bookmarkGuid=da6d04de-6742-48f7-916c-827dcd1673a1
+
 ## 📊 Key Features
 - 📈 Sales trend analysis (Daily / Monthly / Yearly)
 - 🧾 Total revenue, quantity sold, and order count KPIs
